@@ -1,5 +1,7 @@
 # Phase 3: Android UI Difference Detection via XML Hierarchy Analysis
 
+*Conducted under Dingbang Wang and Prof. Tingting Yu*
+
 ## Overview
 This is Phase 3 of our research project investigating methods to detect differences between Android screen elements. In the previous two phases, we utilized AI models like CLIP for visual comparison and semantic understanding of UI changes. In this phase, we are taking a different approach: instead of relying on image-based AI models, we directly read and compare the Android UI's XML hierarchy. This approach provides precise, structural analysis of UI changes by examining the actual element tree, attributes, and properties that define the interface.
 
